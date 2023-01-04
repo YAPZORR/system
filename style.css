@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    padding: 1% 3%;
+}
+.section1{
+    padding: 2% 10%;
+}
+.nav-item{
+    padding: 0% 18px;
+}
+.nav-item:hover{
+    color: #ffd900;
+}
+#home{
+    font-weight: bold;
+    color: rgb(70, 68, 68);
+}
+#home:hover{
+    color: #f8bf02;
+}
+#service{
+    font-weight: bold;
+    color: #ffd000;
+}
+#service:hover{
+    font-weight: bold;
+    color: #0a0a0a;
+}
+#mis{
+    color: green;
+    font-weight: bold;
+}
+#head-message{
+    margin-top: 15%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+.btn1{
+    margin-top: 7%;
+    color: #fff;
+}
+.btn-txt{
+    color: #fff;
+    
+    font-family: 'Montserrat', ;
+    
+}
+.system{
+    color: rgb(255, 217, 0);
+}
+.our{
+    font-size: 2rem;
+    text-align: center;
+}
+.g{
+    width: 98%;
+    height: 550px;
+}
+.system-txt{
+    color: green;
+}
+.view{
+    color: #fff;
+}
+.btn-view{
+    margin-top: 6%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.fa-icon{
+    font-size: 15px;
+    font-weight: 3px;
+    color: #fff;
+    
+}
+#sis{
+    padding: 5% 8%;
+   
+
+}
+.sis-pic{
+    margin-bottom: 5%;
+}
+h3{
+    color: green;
+    font-weight: bold;
+}
+p{
+    color: rgb(156, 155, 154);
+}
+.person-talk{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+#line{
+    border: 1px solid green;
+    width: 80%;
+    padding: 0% 50%;
+  }
+.foot{
+    text-align: center;
+}
+
+  .btn-sis:hover {
+    background-color: #ffd900;
+    box-shadow: 0px 15px 20px rgba(11, 236, 146, 0.445);
+    color: #fff;
+    transform: translateY(-2px);
+  }
+  .btn-sis{
+   
+    
+    
+    box-shadow: 0px 8px 15px rgba(8, 8, 8, 0.315);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+  }
+  img{
+    box-shadow: 0px 8px 15px rgba(8, 8, 8, 0.315);
+  }
+  #port{
+    box-shadow: 0px 8px 15px rgba(8, 8, 8, 0);
+  }
+  #logo{
+    box-shadow: 0px 8px 15px rgba(8, 8, 8, 0);
+  }
+  .navbar{
+    padding: 4% 7%;
+  }
